@@ -5,3 +5,4 @@ services:
       - vol-atoti
     ports:
       - "8800:80"
+    environment:
