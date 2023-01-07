@@ -1,0 +1,5 @@
+services:
+  atoti:
+    image: atoti:latest
+    ports:
+      - "880:80"
