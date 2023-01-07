@@ -1,8 +1,0 @@
-services:
-  atoti:
-    image: atoti:latest
-    volumes:
-      - vol-atoti
-    ports:
-      - "8800:80"
-    environment:
