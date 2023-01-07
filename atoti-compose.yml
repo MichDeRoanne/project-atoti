@@ -1,5 +1,7 @@
 services:
   atoti:
     image: atoti:latest
+    volumes:
+      - vol-atoti
     ports:
       - "880:80"
