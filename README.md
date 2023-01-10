@@ -1,5 +1,47 @@
 # atoti Project
 
+Atoti is a free Python BI analytics platform for Data Analysts, Data Scientists & Business Users to analyze their data into business KPIs.
+It is a BI analytics platform combining a python library and a web application.
+Atoti was launched in 2020 by ActiveViam (Paris).
+
+
+
+
+### Commands
+
+To load the project, run:
+
+- Built image:
+
+```bash
+docker build -t atoti .
+```
+
+- Create a volume:
+
+```bash
+docker volume create --name vol-atoti
+```
+
+- Run contener:
+
+```bash
+docker run --publish 8800:80 --volume vol-atoti atoti
+```
+
+- Access to application: [http://localhost:8800](https://localhost:8800)
+
+
+
+
+
+
+
+A few examples:
+
+
+
+
 This template can be used to start atoti projects where the goal is to [go into production rather than prototyping in a notebook](https://docs.atoti.io/latest/deployment/going_from_a_notebook_to_an_app.html).
 
 On top of the `atoti` package, it comes with:
