@@ -1,9 +1,12 @@
 # atoti Project
 
+
+![image](https://user-images.githubusercontent.com/115105125/211676747-fa370022-5c74-43e7-b915-07916d6e2312.png)
+
+
 Atoti is a free Python BI analytics platform for Data Analysts, Data Scientists & Business Users to analyze their data into business KPIs.
 It is a BI analytics platform combining a python library and a web application.
 Atoti was launched in 2020 by ActiveViam (Paris).
-
 
 
 
