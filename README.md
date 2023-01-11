@@ -12,7 +12,7 @@ Atoti was launched in 2020 by ActiveViam (Paris).
 
 ## Commands
 
-To load the project, run:
+To load the project:
 
 - Built image:
 
