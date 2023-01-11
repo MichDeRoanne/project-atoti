@@ -38,7 +38,7 @@ docker run --publish 8800:80 --volume vol-atoti atoti
 
 ## Usage
 
-To get an overview ot Atoti. You can play with visualisations using data:
+To get an overview ot Atoti. You can play with visualisations using preloaded data:
 
 ![image](https://user-images.githubusercontent.com/115105125/211925729-3449582e-90ad-4bdf-b7e0-8c4f9c3c4aeb.png)
 
