@@ -32,7 +32,7 @@ docker volume create --name vol-atoti
 docker run --publish 8800:80 --volume vol-atoti atoti
 ```
 
-- Access to application: [http://localhost:8800](https://localhost:8800)
+- Access to application: [http://localhost:8800/#/](http://localhost:8800/#/)
 
 
 
